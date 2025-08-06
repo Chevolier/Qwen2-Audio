@@ -1,0 +1,8 @@
+git+https://github.com/huggingface/transformers
+torch==2.6.0
+librosa==0.11.0
+soundfile==0.13.1
+accelerate==1.9.0
+numpy==1.26.4
+boto3==1.40.1
+huggingface_hub==0.34.0

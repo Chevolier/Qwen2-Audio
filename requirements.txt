@@ -1,1 +1,2 @@
 librosa
+git+https://github.com/huggingface/transformers
